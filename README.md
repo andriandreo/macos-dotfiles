@@ -5,7 +5,7 @@ MacOS dotfiles for minimal setup w/o `Homebrew` (`brew`).
 
 ## First Terminal setup
 1. `chsh -s /bin/zsh`,
-1. Import mod Terminal profile from Terminal Preferences.
+1. Import mod Terminal profile (`macOS-terminal-profile-Basic-mod.terminal`) *via* Terminal Preferences.
 
 ## Android Tools
 1. Download [Android SDK Platform-Tools for Mac](https://developer.android.com/tools/releases/platform-tools),
